@@ -1,4 +1,3 @@
-````markdown
 # PostgreSQL 18 HA PoC using Docker inside WSL2
 
 Simple PostgreSQL 18 High Availability (HA) Proof of Concept using:
@@ -712,9 +711,6 @@ docker volume rm pg_primary_data
 
 ---
 
-# Author
-
-PostgreSQL 18 HA Learning PoC using Docker + WSL2
 
 ```
 ```
