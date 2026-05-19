@@ -1,5 +1,5 @@
 ````markdown
-## PostgreSQL 18 HA PoC using Docker inside WSL2
+# Postgresql 18 Manual Failover PoC using Docker inside WSL2
 
 Simple PostgreSQL 18 High Availability (HA) Proof of Concept using:
 
