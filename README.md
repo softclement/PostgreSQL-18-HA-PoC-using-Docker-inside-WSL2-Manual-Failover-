@@ -1,4 +1,4 @@
-# PostgreSQL 18 HA PoC using Docker inside WSL2
+# PostgreSQL Streaming Replication - Manual Failover PoC using Docker inside WSL2
 
 Simple PostgreSQL 18 High Availability (HA) Proof of Concept using:
 
